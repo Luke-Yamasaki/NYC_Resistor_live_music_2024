@@ -3,6 +3,8 @@ A Docusaurus walkthrough of the live music workshop hosted at NYC Resistor
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
+The root folder is called `documentation` and you will find all of the markdowns, packages, etc. here.
+
 ## Installation
 
 If you are leveraging `yarn`, please run this in your terminal:
